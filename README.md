@@ -17,9 +17,9 @@ A full-stack courier platform streamlining parcel bookings, shipment tracking, a
   - [Database Setup](#database-setup)  
 - [Authentication (JWT)](#authentication-jwt)  
 - [API Documentation & Testing (Swagger)](#api-documentation--testing-swagger)  
-- [Folder Structure](#folder-structure)  
-- [License](#license)
-
+- [Folder Structure](#folder-structure)
+  
+  
 ---
 
 ## Introduction
