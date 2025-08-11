@@ -1,0 +1,6 @@
+@RapidReachApi_HostAddress = http://localhost:5027
+
+GET {{RapidReachApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
